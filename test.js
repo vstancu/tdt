@@ -1,4 +1,4 @@
-re('./server');
+var server = require('./server');
 
 describe('server', function () {
     before(function () {
